@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>currency$0</string>
+	<key>name</key>
+	<string>Currency object2</string>
+	<key>tabTrigger</key>
+	<string>currency_id</string>
+	<key>uuid</key>
+	<string>8FD69EA8-1B33-42D7-9970-E00D8FD8F24B
+	</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>invitation_id$0</string>
+	<key>name</key>
+	<string>Invitation id</string>
+	<key>tabTrigger</key>
+	<string>Invitation</string>
+	<key>uuid</key>
+	<string>94278C66-D2E4-46A9-BCE7-A12DB8205098
+	</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>logger$0</string>
+	<key>name</key>
+	<string>Logger object2</string>
+	<key>tabTrigger</key>
+	<string>logger_id</string>
+	<key>uuid</key>
+	<string>0C33E414-7027-4616-A725-28D8F574F0F1
+	</string>
+</dict>
+</plist>

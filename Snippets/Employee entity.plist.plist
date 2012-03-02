@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Employee$0</string>
+	<key>name</key>
+	<string>Employee entity</string>
+	<key>tabTrigger</key>
+	<string>employees</string>
+	<key>uuid</key>
+	<string>13ECEB99-707E-4CAB-864B-E2A5CEBE5EB7
+	</string>
+</dict>
+</plist>

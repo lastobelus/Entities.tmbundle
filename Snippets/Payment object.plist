@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>payment$0</string>
+	<key>name</key>
+	<string>Payment object</string>
+	<key>tabTrigger</key>
+	<string>aym</string>
+	<key>uuid</key>
+	<string>AE350719-E396-4508-B6FF-8194761BB647
+	</string>
+</dict>
+</plist>

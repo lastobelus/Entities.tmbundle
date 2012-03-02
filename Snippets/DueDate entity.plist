@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>DueDate$0</string>
+	<key>name</key>
+	<string>DueDate entity</string>
+	<key>tabTrigger</key>
+	<string>due_dates</string>
+	<key>uuid</key>
+	<string>72F32606-08B9-408D-BE81-B95FE4571F05
+	</string>
+</dict>
+</plist>

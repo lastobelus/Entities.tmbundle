@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Browser$0</string>
+	<key>name</key>
+	<string>Browser entity</string>
+	<key>tabTrigger</key>
+	<string>browsers</string>
+	<key>uuid</key>
+	<string>52B9A2A6-6E55-4889-AC27-5172DF73E799
+	</string>
+</dict>
+</plist>

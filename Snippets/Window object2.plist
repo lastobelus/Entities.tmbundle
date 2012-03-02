@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>window$0</string>
+	<key>name</key>
+	<string>Window object2</string>
+	<key>tabTrigger</key>
+	<string>window_id</string>
+	<key>uuid</key>
+	<string>DCB72A52-A3E0-43C6-884F-F00BA0BC5372
+	</string>
+</dict>
+</plist>
