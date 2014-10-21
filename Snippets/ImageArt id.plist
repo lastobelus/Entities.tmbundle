@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>image_art_id$0</string>
+	<key>name</key>
+	<string>ImageArt id</string>
+	<key>scope</key>
+	<string>=attr.lastobelus.clients.teesforthepeople</string>
+	<key>tabTrigger</key>
+	<string>ImageArt</string>
+	<key>uuid</key>
+	<string>FC17B703-03EA-4274-85C7-C7ECCE18C928</string>
+</dict>
+</plist>

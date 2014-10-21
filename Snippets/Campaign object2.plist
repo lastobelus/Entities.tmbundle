@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>campaign$0</string>
+	<key>name</key>
+	<string>Campaign object2</string>
+	<key>scope</key>
+	<string>=attr.lastobelus.clients.teesforthepeople</string>
+	<key>tabTrigger</key>
+	<string>campaign_id</string>
+	<key>uuid</key>
+	<string>64631F5C-0D6C-45EB-84A6-2A847D1C3715</string>
+</dict>
+</plist>
