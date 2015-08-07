@@ -6,6 +6,8 @@
 	<string>Entry$0</string>
 	<key>name</key>
 	<string>Entry entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>entries</string>
 	<key>uuid</key>

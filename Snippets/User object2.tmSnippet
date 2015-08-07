@@ -6,6 +6,8 @@
 	<string>user$0</string>
 	<key>name</key>
 	<string>User object2</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>user_id</string>
 	<key>uuid</key>

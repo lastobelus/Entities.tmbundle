@@ -6,6 +6,8 @@
 	<string>level_id$0</string>
 	<key>name</key>
 	<string>Level id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Level</string>
 	<key>uuid</key>

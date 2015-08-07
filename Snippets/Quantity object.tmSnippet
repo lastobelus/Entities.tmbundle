@@ -6,6 +6,8 @@
 	<string>quantity$0</string>
 	<key>name</key>
 	<string>Quantity object</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>qty</string>
 	<key>uuid</key>

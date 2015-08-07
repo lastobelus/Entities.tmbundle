@@ -6,6 +6,8 @@
 	<string>language$0</string>
 	<key>name</key>
 	<string>Language object2</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>language_id</string>
 	<key>uuid</key>

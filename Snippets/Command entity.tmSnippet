@@ -6,6 +6,8 @@
 	<string>Command$0</string>
 	<key>name</key>
 	<string>Command entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>commands</string>
 	<key>uuid</key>

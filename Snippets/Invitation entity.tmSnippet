@@ -6,6 +6,8 @@
 	<string>Invitation$0</string>
 	<key>name</key>
 	<string>Invitation entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>invitations</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>due_date$0</string>
 	<key>name</key>
 	<string>DueDate object</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>dut</string>
 	<key>uuid</key>

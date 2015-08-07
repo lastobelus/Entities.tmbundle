@@ -8,6 +8,8 @@
 	<string>CampaignShirt object2</string>
 	<key>scope</key>
 	<string>=attr.lastobelus.clients.teesforthepeople</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>campaign_shirt_id</string>
 	<key>uuid</key>

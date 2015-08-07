@@ -6,6 +6,8 @@
 	<string>origins$0</string>
 	<key>name</key>
 	<string>Origin objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>origin</string>
 	<key>uuid</key>

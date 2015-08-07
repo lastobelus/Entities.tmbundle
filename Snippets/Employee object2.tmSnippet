@@ -6,6 +6,8 @@
 	<string>employee$0</string>
 	<key>name</key>
 	<string>Employee object2</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>employee_id</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>company_names$0</string>
 	<key>name</key>
 	<string>CompanyName objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>company_name</string>
 	<key>uuid</key>

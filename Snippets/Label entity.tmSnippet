@@ -6,6 +6,8 @@
 	<string>Label$0</string>
 	<key>name</key>
 	<string>Label entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>labels</string>
 	<key>uuid</key>

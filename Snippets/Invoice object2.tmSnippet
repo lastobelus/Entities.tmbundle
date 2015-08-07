@@ -6,6 +6,8 @@
 	<string>invoice$0</string>
 	<key>name</key>
 	<string>Invoice object2</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>invoice_id</string>
 	<key>uuid</key>

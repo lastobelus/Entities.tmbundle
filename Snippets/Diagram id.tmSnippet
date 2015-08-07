@@ -6,6 +6,8 @@
 	<string>diagram_id$0</string>
 	<key>name</key>
 	<string>Diagram id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Diagram</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>account$0</string>
 	<key>name</key>
 	<string>Account object2</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>account_id</string>
 	<key>uuid</key>

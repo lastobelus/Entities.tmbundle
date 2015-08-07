@@ -6,6 +6,8 @@
 	<string>billing_address$0</string>
 	<key>name</key>
 	<string>BillingAddress object</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>biadr</string>
 	<key>uuid</key>

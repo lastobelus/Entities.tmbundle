@@ -6,6 +6,8 @@
 	<string>windows$0</string>
 	<key>name</key>
 	<string>Window objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>window</string>
 	<key>uuid</key>

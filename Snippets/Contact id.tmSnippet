@@ -6,6 +6,8 @@
 	<string>contact_id$0</string>
 	<key>name</key>
 	<string>Contact id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Contact</string>
 	<key>uuid</key>

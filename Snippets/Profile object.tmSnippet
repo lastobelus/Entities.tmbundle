@@ -6,6 +6,8 @@
 	<string>profile$0</string>
 	<key>name</key>
 	<string>Profile object</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>rof</string>
 	<key>uuid</key>

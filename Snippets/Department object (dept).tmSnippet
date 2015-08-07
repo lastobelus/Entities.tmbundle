@@ -6,6 +6,8 @@
 	<string>department$0</string>
 	<key>name</key>
 	<string>Department object (dept)</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>dept</string>
 	<key>uuid</key>

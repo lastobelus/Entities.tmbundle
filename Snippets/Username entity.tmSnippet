@@ -6,6 +6,8 @@
 	<string>Username$0</string>
 	<key>name</key>
 	<string>Username entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>usernames</string>
 	<key>uuid</key>

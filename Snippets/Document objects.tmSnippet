@@ -6,6 +6,8 @@
 	<string>documents$0</string>
 	<key>name</key>
 	<string>Document objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>document</string>
 	<key>uuid</key>

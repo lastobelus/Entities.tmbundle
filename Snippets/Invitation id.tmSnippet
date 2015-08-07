@@ -6,6 +6,8 @@
 	<string>invitation_id$0</string>
 	<key>name</key>
 	<string>Invitation id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Invitation</string>
 	<key>uuid</key>

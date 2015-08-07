@@ -6,6 +6,8 @@
 	<string>Payment$0</string>
 	<key>name</key>
 	<string>Payment entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>payments</string>
 	<key>uuid</key>

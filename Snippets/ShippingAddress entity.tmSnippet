@@ -6,6 +6,8 @@
 	<string>ShippingAddress$0</string>
 	<key>name</key>
 	<string>ShippingAddress entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>shipping_addresses</string>
 	<key>uuid</key>

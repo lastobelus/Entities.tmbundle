@@ -6,6 +6,8 @@
 	<string>commands$0</string>
 	<key>name</key>
 	<string>Command objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>command</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>images$0</string>
 	<key>name</key>
 	<string>Image objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>image</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>Value$0</string>
 	<key>name</key>
 	<string>Value entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>values</string>
 	<key>uuid</key>

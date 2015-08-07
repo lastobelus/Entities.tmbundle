@@ -6,6 +6,8 @@
 	<string>instances$0</string>
 	<key>name</key>
 	<string>Instance objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>instance</string>
 	<key>uuid</key>

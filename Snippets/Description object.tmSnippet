@@ -6,6 +6,8 @@
 	<string>description$0</string>
 	<key>name</key>
 	<string>Description object</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>des</string>
 	<key>uuid</key>

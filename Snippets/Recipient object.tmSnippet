@@ -6,6 +6,8 @@
 	<string>recipient$0</string>
 	<key>name</key>
 	<string>Recipient object</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>recp</string>
 	<key>uuid</key>

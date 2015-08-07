@@ -6,6 +6,8 @@
 	<string>currency_id$0</string>
 	<key>name</key>
 	<string>Currency id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Currency</string>
 	<key>uuid</key>

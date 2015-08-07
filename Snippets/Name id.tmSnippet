@@ -6,6 +6,8 @@
 	<string>name_id$0</string>
 	<key>name</key>
 	<string>Name id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Name</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>elements$0</string>
 	<key>name</key>
 	<string>Element objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>element</string>
 	<key>uuid</key>

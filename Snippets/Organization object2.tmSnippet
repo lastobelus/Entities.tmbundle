@@ -6,6 +6,8 @@
 	<string>organization$0</string>
 	<key>name</key>
 	<string>Organization object2</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>organization_id</string>
 	<key>uuid</key>

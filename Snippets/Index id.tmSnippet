@@ -6,6 +6,8 @@
 	<string>index_id$0</string>
 	<key>name</key>
 	<string>Index id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Index</string>
 	<key>uuid</key>

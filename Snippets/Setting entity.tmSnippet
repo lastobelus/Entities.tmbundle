@@ -6,6 +6,8 @@
 	<string>Setting$0</string>
 	<key>name</key>
 	<string>Setting entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>settings</string>
 	<key>uuid</key>

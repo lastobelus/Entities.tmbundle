@@ -6,6 +6,8 @@
 	<string>directory_id$0</string>
 	<key>name</key>
 	<string>Directory id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Directory</string>
 	<key>uuid</key>

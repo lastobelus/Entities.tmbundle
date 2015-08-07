@@ -6,6 +6,8 @@
 	<string>Company$0</string>
 	<key>name</key>
 	<string>Company entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>companies</string>
 	<key>uuid</key>

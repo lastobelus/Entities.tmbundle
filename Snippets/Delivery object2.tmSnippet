@@ -6,6 +6,8 @@
 	<string>delivery$0</string>
 	<key>name</key>
 	<string>Delivery object2</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>delivery_id</string>
 	<key>uuid</key>

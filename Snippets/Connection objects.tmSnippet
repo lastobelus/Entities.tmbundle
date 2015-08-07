@@ -6,6 +6,8 @@
 	<string>connections$0</string>
 	<key>name</key>
 	<string>Connection objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>connection</string>
 	<key>uuid</key>

@@ -6,6 +6,8 @@
 	<string>customer_id$0</string>
 	<key>name</key>
 	<string>Customer id</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>Customer</string>
 	<key>uuid</key>

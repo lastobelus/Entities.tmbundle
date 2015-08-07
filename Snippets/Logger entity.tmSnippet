@@ -6,6 +6,8 @@
 	<string>Logger$0</string>
 	<key>name</key>
 	<string>Logger entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>loggers</string>
 	<key>uuid</key>

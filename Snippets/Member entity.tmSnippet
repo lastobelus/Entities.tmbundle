@@ -6,6 +6,8 @@
 	<string>Member$0</string>
 	<key>name</key>
 	<string>Member entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>members</string>
 	<key>uuid</key>

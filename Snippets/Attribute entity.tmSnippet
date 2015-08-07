@@ -6,6 +6,8 @@
 	<string>Attribute$0</string>
 	<key>name</key>
 	<string>Attribute entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>attributes</string>
 	<key>uuid</key>

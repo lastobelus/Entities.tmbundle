@@ -6,6 +6,8 @@
 	<string>logins$0</string>
 	<key>name</key>
 	<string>Login objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>login</string>
 	<key>uuid</key>

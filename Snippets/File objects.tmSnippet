@@ -6,6 +6,8 @@
 	<string>files$0</string>
 	<key>name</key>
 	<string>File objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>file</string>
 	<key>uuid</key>

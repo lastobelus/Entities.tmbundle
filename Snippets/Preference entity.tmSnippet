@@ -6,6 +6,8 @@
 	<string>Preference$0</string>
 	<key>name</key>
 	<string>Preference entity</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>preferences</string>
 	<key>uuid</key>

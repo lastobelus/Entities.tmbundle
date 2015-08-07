@@ -6,6 +6,8 @@
 	<string>filters$0</string>
 	<key>name</key>
 	<string>Filter objects</string>
+	<key>scope</key>
+	<string>-attr.lastobelus.noentities</string>
 	<key>tabTrigger</key>
 	<string>filter</string>
 	<key>uuid</key>
